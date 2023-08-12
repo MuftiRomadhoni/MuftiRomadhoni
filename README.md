@@ -1,4 +1,4 @@
-### Hi there namau Mufti Kholil Romadhoni
+### Hi there Nama Saya Mufti Kholil Romadhoni
 <p align="left">
 <a href="https://github.com/dimasmds">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuftiRomadhoni&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
